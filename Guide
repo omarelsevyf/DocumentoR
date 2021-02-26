@@ -11,3 +11,6 @@ seq() secuencia de principio a fin, tambien se puede especificar la longitud.
 rep() replica de verctores. 
 operadores como | (or), & (and)
 paste() para juntar los argumentos, con colapse podemos separar los argumentos de una variable, y sep para separar argumentos
+en paste los argumentos gets coerced into characters value
+sample() toma una muestra de una poblacion
+x[c(-2, -10)] da un subset de todos las posiciones de x excepto el segundo y el decimo
