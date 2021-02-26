@@ -14,3 +14,5 @@ paste() para juntar los argumentos, con colapse podemos separar los argumentos d
 en paste los argumentos gets coerced into characters value
 sample() toma una muestra de una poblacion
 x[c(-2, -10)] da un subset de todos las posiciones de x excepto el segundo y el decimo
+attributes() y dim() son parecidos, para saber las dimensiones, y con dim podemos set las dimensiones
+cbind() y rowbind() para anadir columnas o filas respectivamente
