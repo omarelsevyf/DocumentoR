@@ -6,3 +6,4 @@ con dir() o list_files() se crea una lista de todos los files del working direct
 list.files() un listado de todos los archivos en el directorio
 file. exists() si existe el archivo
 file.create(), file.rename(), file.remove(), file.copy(), file.path()
+para buscar ayuda sobre : se escribe ?`:`
