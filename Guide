@@ -1,1 +1,6 @@
 Para buscar informacion en la ventana de ayuda se puede typear en la consola ?Funcion.
+getwd() es para ver en que directorio se esta trabajando.
+ls() da una lista de las variables y objetos que se han creado.
+con dir() o list_files() se crea una lista de todos los files del working directory.
+list.files() un listado de todos los archivos en el directorio
+file. exists() si existe el archivo
