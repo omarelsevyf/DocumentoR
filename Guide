@@ -7,3 +7,6 @@ list.files() un listado de todos los archivos en el directorio
 file. exists() si existe el archivo
 file.create(), file.rename(), file.remove(), file.copy(), file.path()
 para buscar ayuda sobre : se escribe ?`:`
+seq() secuencia de principio a fin, tambien se puede especificar la longitud.
+rep() replica de verctores. 
+operadores como | (or), & (and)
