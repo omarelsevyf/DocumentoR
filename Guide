@@ -10,3 +10,4 @@ para buscar ayuda sobre : se escribe ?`:`
 seq() secuencia de principio a fin, tambien se puede especificar la longitud.
 rep() replica de verctores. 
 operadores como | (or), & (and)
+paste() para juntar los argumentos, con colapse podemos separar los argumentos de una variable, y sep para separar argumentos
