@@ -42,4 +42,4 @@ se puede coerced character string a fecha con la funcion strptime
 
 El operador && compara el solo el primer miembro de un vector, el operador & compara todos. la misma logica para | y ||.
 identical() retorna un valor verdadero si los argumentos son iguales
-xor() retorna un valor verdadera si uno de sus argumentos es verdadero.
+xor() retorna un valor verdadera si uno de sus argumentos es verdadero y otro es falso.
