@@ -36,3 +36,6 @@ Funciones
 ... es un argumento normalmente utilizado para copiar los argumentos de una funcion original sin necesidad de tener que listar todas las funciones, 
 es comun utilizar este metodo al exteder una funcion de otra (funcion original dentro una funcion creada).
 tambien se utiliza ... cuando no se sabe de antemano cuantos argumentos se van utilizar.
+
+Date
+se puede coerced character string a fecha con la funcion strptime
