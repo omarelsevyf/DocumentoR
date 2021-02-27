@@ -17,3 +17,14 @@ x[c(-2, -10)] da un subset de todos las posiciones de x excepto el segundo y el 
 attributes() y dim() son parecidos, para saber las dimensiones, y con dim podemos set las dimensiones
 cbind() y rowbind() para anadir columnas o filas respectivamente
 usando colnames() podemos cambiar los nombres de las columnas de una table
+
+Control Structures
+if else prueba una condicion
+for ejecuta un bucle un numero fijo de veces
+while ejecula el bucle mientras la condicion sea verdadera
+repear ejecuta un bucle infinitas veces
+break rompe el loop
+next salta una iteracion del loop
+return te permite salir de la funcion
+
+seq_along y seq_len ambos muestran secuencias 
