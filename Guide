@@ -31,3 +31,7 @@ return te permite salir de la funcion
 seq_along y seq_len ambos muestran secuencias 
 
 Dentro del bucle de while se pueden utilizar varias condiciones con operadores como &&
+
+Funciones
+... es un argumento normalmente utilizado para copiar los argumentos de una funcion original sin necesidad de tener que listar todas las funciones, 
+es comun utilizar este metodo al exteder una funcion de otra (funcion original dentro una funcion creada).
