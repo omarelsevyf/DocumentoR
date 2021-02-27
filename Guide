@@ -1,6 +1,7 @@
 Para buscar informacion en la ventana de ayuda se puede typear en la consola ?Funcion.
 getwd() es para ver en que directorio se esta trabajando.
 setwd() es para ir a un directorio en especifico.
+args() nos permite ver los argumentos de una funcion.
 ls() da una lista de las variables y objetos que se han creado.
 con dir() o list_files() se crea una lista de todos los files del working directory.
 list.files() un listado de todos los archivos en el directorio
@@ -28,3 +29,5 @@ next salta una iteracion del loop
 return te permite salir de la funcion
 
 seq_along y seq_len ambos muestran secuencias 
+
+Dentro del bucle de while se pueden utilizar varias condiciones con operadores como &&
